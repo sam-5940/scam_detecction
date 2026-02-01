@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Ollama / local models
+models/
+*.bin
+
+# Outputs / generated files
+*.json
+output/
+
+# OS junk
+Thumbs.db
+.DS_Store
